@@ -1,5 +1,5 @@
 <script>
-  import Monitor from "./lib/Monitor.svelte";
+  import Statistics from "./lib/Statistics.svelte";
 </script>
 
-<Monitor />
+<Statistics />
