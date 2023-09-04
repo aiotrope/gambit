@@ -1,5 +1,5 @@
 <script>
-  import Statistics from "./lib/Statistics.svelte";
+  import ItemApp from "./lib/ItemApp.svelte";
 </script>
 
-<Statistics />
+<ItemApp />
