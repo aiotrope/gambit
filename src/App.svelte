@@ -1,5 +1,5 @@
 <script>
-  import ItemApp from "./lib/ItemApp.svelte";
+ import DogFacts from "./lib/DogFacts.svelte";
 </script>
 
-<ItemApp />
+<DogFacts />
